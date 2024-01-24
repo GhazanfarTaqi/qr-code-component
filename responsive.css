@@ -1,0 +1,37 @@
+@media only screen and (max-width: 375px) {
+    .main-body {
+        background-color: hsl(0, 0%, 100%);
+        width: 85.5vw;
+        height: auto;
+    }
+    .main-body>img {
+        width: 75vw;
+        height: auto;
+        margin: 1em;
+        border-radius: 10px;
+    
+    }
+    .bold-text{
+        font-size: 22px;
+        font-weight: 700;
+        width: 65vw;
+        height: auto;
+        text-align: center;
+        margin: 10px 0;
+        line-height: 23px;
+        font-family: Outfit;
+    }
+    .light-text{
+        font-size: 16px;
+        font-weight: 400;
+        width: 64vw;
+        height: auto;
+        text-align: center;
+        margin: 5px 0;
+        margin-bottom: 30px;
+        font-family: Outfit;
+        line-height: 18px;
+    
+        
+    }
+  }
